@@ -1,0 +1,12 @@
+
+u
+java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(²Ëøùÿÿÿÿ
+V	java:S125&"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ
+‘
+java:S1128"{Remove this unused import 'org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity'.(Ô¦ø
+e
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€
+l
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥
+|
+java:S1128"aRemove this unused import 'org.springframework.security.provisioning.InMemoryUserDetailsManager'.(îŒúùÿÿÿÿ
